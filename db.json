@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "product_code": "09877",
+      "product_name": "book",
+      "price": 3,
+      "quantity": 2,
+      "description": "ueyetteey",
+      "id": 11
+    },
+    {
+      "product_code": "6777",
+      "product_name": "watch",
+      "price": 3,
+      "quantity": 1,
+      "description": "ythois is watch",
+      "id": 12
+    },
+    {
+      "product_code": "1112",
+      "product_name": "i phone",
+      "price": 233,
+      "quantity": 1,
+      "description": "i phone 12",
+      "id": 13
+    }
+  ]
+}
